@@ -2,8 +2,8 @@
 title: 바인드 변수가 너무 많은 쿼리
 author: me
 date: 2024-06-21 16:53:00 +0800
-categories: [Blogging]
-tags: [oracle,SQL개선]
+categories: [Oracles,SQL개선]
+tags: [파싱타임개선]
 ---
 
 ## 문제   
